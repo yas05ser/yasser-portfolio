@@ -25,12 +25,12 @@ function mapTechData() {
             "type": "web-tech"
         },
         {
-            "name": "Bootstrap",
-            "icon": "images/tech/bootstrap.svg",
+            "name": "Javascript",
+            "icon": "images/tech/js.svg",
             "type": "web-tech"
         },
         {
-            "name": "Javascript",
+            "name": "Vue JS",
             "icon": "images/tech/js.svg",
             "type": "web-tech"
         },
@@ -40,8 +40,8 @@ function mapTechData() {
             "type": "server-tech"
         },
         {
-            "name": "Node.js",
-            "icon": "images/tech/node.svg",
+            "name": "Python",
+            "icon": "images/tech/flask.svg",
             "type": "server-tech"
         },
         {
