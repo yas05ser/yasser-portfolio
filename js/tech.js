@@ -44,11 +44,11 @@ function mapTechData() {
             "icon": "images/tech/flask.svg",
             "type": "server-tech"
         },
-        {
-            "name": "REST Apis",
-            "icon": "images/tech/api.svg",
-            "type": "server-tech"
-        },
+        // {
+        //     "name": "REST Apis",
+        //     "icon": "images/tech/api.svg",
+        //     "type": "server-tech"
+        // },
         {
             "name": "Firebase",
             "icon": "images/tech/firebase.svg",
